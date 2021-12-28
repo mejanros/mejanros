@@ -3,7 +3,7 @@ but you can call me just Jan 👋
 
 
 
-I'm undergraduate on biotechnology at Universidade Federal de Pelotas and I'm currently working with bioinformatics and data science. 
+I'm undergraduate in **biotechnology** at **Universidade Federal de Pelotas** and I'm currently working on **bioinformatics and data science**
 
 
 ##
