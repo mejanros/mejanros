@@ -1,5 +1,5 @@
 ## Hello!! my name is Jean 
-but you can call me just Jan 👋
+But you can call me just Jan 👋
 
 
 
