@@ -3,7 +3,7 @@ But you can call me just Jan 👋
 
 
 
-I'm about to graduate in **biotechnology** at **Universidade Federal de Pelotas** and I'm currently working on **bioinformatics and data science**
+I'm about to graduate in **biotechnology** at **Universidade Federal de Pelotas** and I'm currently working on **bioinformatics and data science** developing tools to solve biological problems.
 
 
 ##
