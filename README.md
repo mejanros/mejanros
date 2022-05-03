@@ -5,7 +5,7 @@
 &nbsp;
 <h2 align="center"> 👨‍💻 Who am I</h2>
 <p align="center">
-  <samp>An almost Biotechnologist that met bioinformatics and fell in love with programming and tools development.  I'm currently work with bioinformatic and also as data scientist by own projects.
+  <samp> Almost a biotechnologist who met bioinformatics and fell in love with programming and tools development.  I'm currently work with bioinformatic and also as data scientist by own projects.
   </samp>
   <br> <br>
  <p align="center">
