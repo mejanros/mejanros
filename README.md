@@ -3,9 +3,9 @@
   <img src="Jean.gif" alt="header"/>
 </div>
 &nbsp;
-<h2 align="center"> 👨‍💻 Who am I</h2>
+<h2 align="center"> 👨‍💻 Who am I?</h2>
 <p align="center">
-  <samp> Almost a biotechnologist who met bioinformatics and fell in love with programming and tools development.  I'm currently working with bioinformatic and also as data scientist by own projects.
+  <samp>Almost a biotechnologist who met bioinformatics and fell in love with programming and tools development.  I'm currently working with bioinformatic and also as data scientist by own projects.
   </samp>
   <br> <br>
  <p align="center">
@@ -18,11 +18,10 @@
 
 - **Agile Methodology**: Scrum
 - **Project Management Methods for Data Science**: CRISP-DM
-- **Data Visualization**: Encoding insightful data into charts, graphs, maps through storytelling techniques
+- **Data Visualization**: Encoding insightful data into charts, graphs, through storytelling techniques
 - **Statistics**: Descriptive, inference
 - **Machine Learning Modeling**: Regression, Classification
-- **Version Control + Command Line**: Git, Github, and the command line
-- **OS**: Linux.
+- **Version Control**: Git, Github
 
 
 ---
@@ -72,12 +71,11 @@
 </table>
 </p>
 
-
 ---
 <div align="center">
-  <a href="https://github.com/eujean-star">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=eujean-star&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eujean-star&layout=compact&langs_count=7&theme=dark"/>
+  <a href="https://github.com/mejanros">
+  
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mejanros&layout=compact&langs_count=7&theme=dark"/>
 </div>
   <img align="right" height="150" style="border-radius:50px;" 
 </div>
@@ -86,5 +84,5 @@
 
   <h2 align="left"> 📑 Main Projects </h2>
 
-### [2SPred](https://github.com/eujean-star/s2Pred)
+### [2SPred](https://github.com/mejanros/s2Pred)
 
