@@ -14,6 +14,10 @@
 </p>
 
 ---
+  <h2 align="left"> 📑 Main Projects </h2>
+
+### [2SPred](https://github.com/mejanros/s2Pred)
+---
 <h2 align="left"> ✔️ Skills</h2>
 
 - **Agile Methodology**: Scrum
@@ -71,6 +75,12 @@
 </table>
 </p>
 
+
+ <p align="center">
+ <a href="https://www.linkedin.com/in/jean-rodrigues/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+    <a href = "mailto:eujean.ros@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+</p>
+
 ---
 <div align="center">
   <a href="https://github.com/mejanros">
@@ -79,10 +89,4 @@
 </div>
   <img align="right" height="150" style="border-radius:50px;" 
 </div>
-
 ---
-
-  <h2 align="left"> 📑 Main Projects </h2>
-
-### [2SPred](https://github.com/mejanros/s2Pred)
-
