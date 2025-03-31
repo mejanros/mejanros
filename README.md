@@ -16,7 +16,7 @@
 ---
   <h2 align="left"> 📑 Main Projects </h2>
 
-### [2SPred](https://github.com/mejanros/s2Pred)
+### [2SPred - Store Sale Prediction](https://github.com/mejanros/s2Pred)
 ---
 <h2 align="left"> ✔️ Skills</h2>
 
